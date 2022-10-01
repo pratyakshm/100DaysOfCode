@@ -1,4 +1,4 @@
-# 100DaysOfCode
-| Day   | Task Done | Thoughts | Resources (if any) | Proof (Link to Commit, a Screenshot, etc.) | Extra Notes | 
-|-------|-----------|----------|--------------------|-------------|-------|
-| Day 1 | Finished JavaScript Introductory Course | | [The Complete Web Development Course by Dr. Angela Yu](https://www.appbrewery.com/p/the-complete-web-development-course) | [Finished JavaScript for Beginners [2/2]](https://github.com/pratyakshm/web-dev-learn/commit/eb5bd560acc6666151a6d006e256dfa6bb5ef8ff) || 
+# 100DaysOfCode Tracker
+| Day   | Task Done | Sub-Tasks | Thoughts | Resources (if any) | Proof (Link to Commit, a Screenshot, etc.) | Extra Notes | 
+|-------|-----------|----------|----------|---------------------|-------------|-------|
+| Day 1 | Finished JavaScript Introductory Course | &bull; Formal Introduction <br> &bull; Adding Behavior to Websites using Alerts and Prompts <br> &bull; Data Types & Variables  <br> &bull; String Concatenation <br> &bull; Slicing and Extracting Parts of a String <br> &bull; Casing a String <br> &bull; Increment and Decrement Expressions <br> &bull; Functions Parameters, Arguments, Outputs, Creating & Calling Functions, and Return values <br> &bull; BMI Calculator | I don't feel anything particular except the fact that I know the basics already, since I've been programming as a hobby since a while, but I think its good to brush up the basics every once in a while, thus I did. | [The Complete Web Development Course by Dr. Angela Yu](https://www.appbrewery.com/p/the-complete-web-development-course) | [Finished JavaScript for Beginners [2/2]](https://github.com/pratyakshm/web-dev-learn/commit/eb5bd560acc6666151a6d006e256dfa6bb5ef8ff) ||
